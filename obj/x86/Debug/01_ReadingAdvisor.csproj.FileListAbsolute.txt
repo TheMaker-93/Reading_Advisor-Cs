@@ -1,0 +1,4 @@
+H:\PA-2\PA_2_ChangeNameOfFolder\01_ReadingAdvisor\bin\Debug\01_ReadingAdvisor.exe
+H:\PA-2\PA_2_ChangeNameOfFolder\01_ReadingAdvisor\bin\Debug\01_ReadingAdvisor.pdb
+H:\PA-2\PA_2_ChangeNameOfFolder\01_ReadingAdvisor\obj\x86\Debug\01_ReadingAdvisor.exe
+H:\PA-2\PA_2_ChangeNameOfFolder\01_ReadingAdvisor\obj\x86\Debug\01_ReadingAdvisor.pdb
